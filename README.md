@@ -1,4 +1,4 @@
-# Image_processing
+# Image processing techniques
 Image processing techniques and basic computer vision tasks for accomplishing this. Implementing image processing operations involves applying various algorithms and techniques to manipulate digital images. These operations can be performed using programming languages and libraries specifically designed for image processing, such as Python with libraries like OpenCV.Operations covered here are:
 
 1. Filtering: Filtering operations are used to enhance or remove specific features in an image. Common filtering techniques include Gaussian blur, median filtering, and edge detection.
